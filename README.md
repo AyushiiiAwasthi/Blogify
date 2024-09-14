@@ -16,7 +16,7 @@ To install and run Blogify on your local system, follow these steps:
    git clone <repository-url>
 2. **Navigate to the Project Directory**
    ```bash
-   cd ChatNow
+   cd Blogify
 3. **Install Dependencies**
    Make sure you have Node.js installed. Then, install the required dependencies:
    ```bash
